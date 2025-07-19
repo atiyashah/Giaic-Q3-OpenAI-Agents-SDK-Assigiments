@@ -92,7 +92,8 @@ product_related_queries = [
     "Which items are currently offering the biggest discount?",
     "What are the top-rated products?",
    "What products have the highest discount?",
-   "What are the best-selling products?"
+   "What are the best-selling products?",
+   
 ]
 
 # ✅ Show responses in colored prompt/response format
